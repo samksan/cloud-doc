@@ -7,3 +7,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### 开设github用于测试自动更新
 
 自动更新详情见[electron-builder官方文档](https://www.electron.build/configuration/publish)
+
+本项目克隆自（2020.1.2）：
+https://github.com/shinee111111/imooc-cloud-doc.git
